@@ -1,6 +1,6 @@
 <?php 
 
-$host = "mysql:host=localhost;dbname=social";
+$host = "mysql:host=localhost;dbname=social_media";
 $user = "root";
 $pass = "";
 
